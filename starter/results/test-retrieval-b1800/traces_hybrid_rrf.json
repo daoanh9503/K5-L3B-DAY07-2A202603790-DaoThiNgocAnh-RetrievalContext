@@ -1,0 +1,199 @@
+[
+  {
+    "query_id": "q16",
+    "question": "How does trade secret law differ from patent law regarding public disclosure?",
+    "filter": null,
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 1800,
+    "results": [
+      {
+        "id": "openstax-iip-p173-f02",
+        "page": 173,
+        "score": 0.0323,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p173-f05",
+        "page": 173,
+        "score": 0.0313,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p173-f06",
+        "page": 173,
+        "score": 0.0313,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p173-f02 | intro-intellectual-property.pdf | page 173]\nt it as a trade secret. Disadvantages Although there is no definite expiration of the protection granted to trade secrets, the protection prohibits only the disclosure or use of the trade secret by one to whom the secret was disclosed in confidence. Unlike patent law, trade secret law does not offer any affirmative protection against the use of the same intellectual property that is independently derived or reverse engineered by a competitor. Consequently, if the intellectual property to be prot\n\n[openstax-iip-p173-f05 | intro-intellectual-property.pdf | page 173]\ncret law provides indefinite future protection, so long as the trade secret stays a secret. Trade secret protection has no expiration date. If someone came up with the same idea on their own, the trade secret is no longer protected by law. Trade secret protection prevents the disclosure or use of the trade secret by one to whom the secret was disclosed in confidence. Trade secret law does not give the holder of a trade secret protection from reverse engineering by the public or a competitor. Tab\n\n[openstax-iip-p173-f06 | intro-intellectual-property.pdf | page 173]\nrse engineering by the public or a competitor. Table 5.1 Whereas patent and trademark law involve an affirmative assertion of an intellectual property right, trade secret law only actively operates after a misappropriation or threatened misappropriation of the trade secret has occurred. Due to this difference in the way trade secret law protects intellectual property, the protections given to trade secrets are largely dependent on classifications of information made by courts. Thus, the foundati",
+    "context_ids": [
+      "openstax-iip-p173-f02",
+      "openstax-iip-p173-f05",
+      "openstax-iip-p173-f06"
+    ],
+    "context_chars": 1711,
+    "elapsed_ms": 52.43,
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false
+  },
+  {
+    "query_id": "q17",
+    "question": "What counts as improper means of acquiring a trade secret under the UTSA?",
+    "filter": null,
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 1800,
+    "results": [
+      {
+        "id": "openstax-iip-p181-f00",
+        "page": 181,
+        "score": 0.0328,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p180-f03",
+        "page": 180,
+        "score": 0.032,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p181-f02",
+        "page": 181,
+        "score": 0.0306,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p181-f00 | intro-intellectual-property.pdf | page 181]\nMisappropriation through Improper Means The first type of misappropriation under the UTSA is acquisition of a trade secret through improper means. Specifically, the UTSA prohibits the “acquisition of a trade secret of another, by a person who knows or has reason to know the trade secret was acquired by improper means.”xxii “Improper means” includes theft, bribery, misrepresentation, breach or inducement of a breach of a duty to maintain secrecy, or espionage through electronic or other means.xxi\n\n[openstax-iip-p180-f03 | intro-intellectual-property.pdf | page 180]\n owners use direct evidence and circumstantial evidence to prove that a misappropriation of trade secrets has occurred. The enforcement provisions of the UTSA allow companies and individuals to protect information that qualifies as a trade secret. The protections allowed for by the UTSA are triggered by the actual or threatened “misappropriation” of trade secrets. “Misappropriation” is defined in two ways: (1) acquisition of a trade secret through improper means, or (2) disclosure or use of a tr\n\n[openstax-iip-p181-f02 | intro-intellectual-property.pdf | page 181]\nry definition is somewhat complicated, the UTSA essentially prohibits the disclosure or use of a trade secret that is possessed as a result of theft, breach of a duty to maintain its secrecy, or an accident or mistake on the part of the trade secret owner.xxiv In short, the UTSA prohibits the disclosure or use of a trade secret that is possessed as a result of “improper means” as defined in the preceding paragraph. The rule of thumb is that if you possess, disclose, or use a trade secret that yo",
+    "context_ids": [
+      "openstax-iip-p181-f00",
+      "openstax-iip-p180-f03",
+      "openstax-iip-p181-f02"
+    ],
+    "context_chars": 1711,
+    "elapsed_ms": 61.6,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q18",
+    "question": "Is there a cap on punitive damages for trade secret misappropriation?",
+    "filter": null,
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 1800,
+    "results": [
+      {
+        "id": "openstax-iip-p186-f05",
+        "page": 186,
+        "score": 0.0325,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p186-f01",
+        "page": 186,
+        "score": 0.0318,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p174-f07",
+        "page": 174,
+        "score": 0.0313,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p186-f05 | intro-intellectual-property.pdf | page 186]\nsult of this conduct, $85 million dollars in exemplary damages was awarded. A punitive or exemplary award may not exceed twice the amount of the damage award.xlii However, some states have modified this cap.xliii Table 5.3 In exceptional circumstances, an injunction may entitle the owner of the trade secret to a royalty for the period of time during which the use of the trade secret was prohibited. For example, the Supreme Court of Georgia has affirmed a trial court’s reliance on a seldom-used p\n\n[openstax-iip-p186-f01 | intro-intellectual-property.pdf | page 186]\nured by the actual loss caused by the misappropriation as well as any resulting unjust enrichment of the misappropriator. Where the amount of actual loss or unjust enrichment cannot be accurately calculated, the UTSA provides that damages may also be measured by the imposition of a reasonable royalty for the misappropriator’s unauthorized disclosure or use of the trade secret. Exemplary or punitive damages may be awarded where the court finds that the misappropriation was willful and malicious.x\n\n[openstax-iip-p174-f07 | intro-intellectual-property.pdf | page 174]\nde Secret Misappropriation Although this section seems to indicate that the UTSA broadly replaces all state laws dealing with misappropriation of trade secrets, there is debate as to what constitutes “conflicting tort, restitutionary, and other law.” Additionally, what it means for a common law remedy to be “based on” misappropriation of a trade secret is often contested. Owners seeking to recover damages for misappropriation generally argue that only common law causes of action that have elemen",
+    "context_ids": [
+      "openstax-iip-p186-f05",
+      "openstax-iip-p186-f01",
+      "openstax-iip-p174-f07"
+    ],
+    "context_chars": 1711,
+    "elapsed_ms": 54.21,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q19",
+    "question": "Can a family name be registered as a trademark?",
+    "filter": null,
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 1800,
+    "results": [
+      {
+        "id": "openstax-iip-p155-f03",
+        "page": 155,
+        "score": 0.0315,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p157-f05",
+        "page": 157,
+        "score": 0.0306,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p149-f00",
+        "page": 149,
+        "score": 0.0304,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p155-f03 | intro-intellectual-property.pdf | page 155]\nally not eligible for trademark registration. These are surnames, geographic marks, and ornamental, immoral, or offensive marks.xxx Surnames or family names such as “Smith” and “Johnson” cannot be trademarked except under certain conditions. The USPTO assesses five factors in determining whether a surname is eligible for a trademark: • Whether the surname is rare. • Whether the term is the surname of anyone connected with the applicant. • Whether the term has any recognized meaning other than as\n\n[openstax-iip-p157-f05 | intro-intellectual-property.pdf | page 157]\nation symbol ® • Listing in the United States Patent and Trademark Office’s online databases.xxxv Because registration costs money, many small businesses choose to rely upon the common law protections afforded trademarks, especially when just starting up. A case in point was Google, which used an unregistered trademark for its first six years in operation. Only in 2006 did the company formally apply for a registered trademark for “Google.” It was registered in 2012. But trademark protection can \n\n[openstax-iip-p149-f00 | intro-intellectual-property.pdf | page 149]\nWords, Phrases, and Names There is little confusion about what is meant by a trademarkable word, phrase, or name. The only point to remember here is that words, names, and phrases that are simply descriptive of the goods or services with which they are associated do not necessarily qualify for registration as a trademark.xiii They must be distinctive and indicate the origin of a product or service. What is meant by distinctive—and how distinctive they must be—will be discussed in the next sectio",
+    "context_ids": [
+      "openstax-iip-p155-f03",
+      "openstax-iip-p157-f05",
+      "openstax-iip-p149-f00"
+    ],
+    "context_chars": 1711,
+    "elapsed_ms": 49.34,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q20",
+    "question": "How is the duration of an injunction determined?",
+    "filter": {
+      "chapter": "5"
+    },
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 1800,
+    "results": [
+      {
+        "id": "openstax-iip-p185-f01",
+        "page": 185,
+        "score": 0.0325,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p185-f00",
+        "page": 185,
+        "score": 0.032,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p185-f02",
+        "page": 185,
+        "score": 0.0318,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p185-f01 | intro-intellectual-property.pdf | page 185]\ne duration of an injunction is determined based on the amount of time it would take a competitor to reveal the trade secret by proper means. An injunction can be terminated when the trade secret ceases to exist. Permanent Injunctions To determine the appropriate length of time, courts may rely on the opinions/experience of experts and competitors. They may impose permanent injunctions or rely on other considerations seen as important by the court. Table 5.2 Injunctive Relief Where the informatio\n\n[openstax-iip-p185-f00 | intro-intellectual-property.pdf | page 185]\nDefinition Injunctive relief allows the owner of a trade secret to legally prohibit a former employee, for example, from misappropriating, publicly disclosing, or otherwise profiting from knowledge of the trade secret. Scope The scope of an injunction varies based on the on the nature of the potential misappropriator’s knowledge of the trade secret, and on the potential competitive advantage that knowledge might grant. Duration and Termination The duration of an injunction is determined based on\n\n[openstax-iip-p185-f02 | intro-intellectual-property.pdf | page 185]\n. Table 5.2 Injunctive Relief Where the information has not been publicly disclosed, the issue becomes more difficult. The duration of the injunction is often calculated according to the time that would be required for independent development of the information or knowledge that was misappropriated. These “head start” injunctions assume that the information could be properly obtained through reverse engineering or independent development.xxxii To determine what length of time is appropriate, cou",
+    "context_ids": [
+      "openstax-iip-p185-f01",
+      "openstax-iip-p185-f00",
+      "openstax-iip-p185-f02"
+    ],
+    "context_chars": 1711,
+    "elapsed_ms": 56.69,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  }
+]

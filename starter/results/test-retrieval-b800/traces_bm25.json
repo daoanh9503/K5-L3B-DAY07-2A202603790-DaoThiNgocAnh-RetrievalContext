@@ -1,0 +1,189 @@
+[
+  {
+    "query_id": "q16",
+    "question": "How does trade secret law differ from patent law regarding public disclosure?",
+    "filter": null,
+    "strategy": "bm25",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p173-f05",
+        "page": 173,
+        "score": 14.6939,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p173-f02",
+        "page": 173,
+        "score": 13.3913,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p173-f04",
+        "page": 173,
+        "score": 12.9262,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p173-f05 | intro-intellectual-property.pdf | page 173]\ncret law provides indefinite future protection, so long as the trade secret stays a secret. Trade secret protection has no expiration date. If someone came up with the same idea on their own, the trade secret is no longer protected by law. Trade secret protection prevents the disclosure or use of the trade secret by one to whom the secret was disclosed in confidence. Trade secret law does not give the holder of a trade secret protection from reverse engineering by the public or a competitor. Tab",
+    "context_ids": [
+      "openstax-iip-p173-f05"
+    ],
+    "context_chars": 569,
+    "elapsed_ms": 2.98,
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false
+  },
+  {
+    "query_id": "q17",
+    "question": "What counts as improper means of acquiring a trade secret under the UTSA?",
+    "filter": null,
+    "strategy": "bm25",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p181-f00",
+        "page": 181,
+        "score": 24.9683,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p181-f02",
+        "page": 181,
+        "score": 17.8203,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p180-f03",
+        "page": 180,
+        "score": 17.67,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p181-f00 | intro-intellectual-property.pdf | page 181]\nMisappropriation through Improper Means The first type of misappropriation under the UTSA is acquisition of a trade secret through improper means. Specifically, the UTSA prohibits the “acquisition of a trade secret of another, by a person who knows or has reason to know the trade secret was acquired by improper means.”xxii “Improper means” includes theft, bribery, misrepresentation, breach or inducement of a breach of a duty to maintain secrecy, or espionage through electronic or other means.xxi",
+    "context_ids": [
+      "openstax-iip-p181-f00"
+    ],
+    "context_chars": 569,
+    "elapsed_ms": 2.98,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q18",
+    "question": "Is there a cap on punitive damages for trade secret misappropriation?",
+    "filter": null,
+    "strategy": "bm25",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p186-f03",
+        "page": 186,
+        "score": 19.9917,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p186-f05",
+        "page": 186,
+        "score": 16.6235,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p174-f07",
+        "page": 174,
+        "score": 15.9978,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p186-f03 | intro-intellectual-property.pdf | page 186]\nemplary damages. A punitive or exemplary award may not exceed twice the amount of the damage award.xl However, some states have modified this cap on punitive damages, and allow for punitive damages greater than two times the amount of actual damages.xli Case Studies Case Description of Damages Seagate Tech., LLC v. Western Digital Corp. (https://www.openstax.org/ l/SeagateVWD) In this case, the Minnesota Court of Appeals affirmed a judgment of $630 million in favor of the plaintiff stemming from",
+    "context_ids": [
+      "openstax-iip-p186-f03"
+    ],
+    "context_chars": 569,
+    "elapsed_ms": 2.52,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q19",
+    "question": "Can a family name be registered as a trademark?",
+    "filter": null,
+    "strategy": "bm25",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p154-f00",
+        "page": 154,
+        "score": 12.6716,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p157-f06",
+        "page": 157,
+        "score": 12.2298,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p157-f05",
+        "page": 157,
+        "score": 11.4823,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p154-f00 | intro-intellectual-property.pdf | page 154]\nhow much evidence a mark owner offers that it has acquired a secondary meaning through advertising and marketing. Ironically, a product or service can become so successful in the marketplace that the public begins to associate its trademark with an entire category of similar products and services. When this happens, a valid trademark can become a generic name and the trademark will be lost, as happened with both “Cellophane” and “Aspirin.” To prevent this from happening, companies like “Kleenex,",
+    "context_ids": [
+      "openstax-iip-p154-f00"
+    ],
+    "context_chars": 569,
+    "elapsed_ms": 2.22,
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false
+  },
+  {
+    "query_id": "q20",
+    "question": "How is the duration of an injunction determined?",
+    "filter": {
+      "chapter": "5"
+    },
+    "strategy": "bm25",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p185-f00",
+        "page": 185,
+        "score": 20.1716,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p185-f01",
+        "page": 185,
+        "score": 17.8633,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p185-f03",
+        "page": 185,
+        "score": 13.8221,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p185-f00 | intro-intellectual-property.pdf | page 185]\nDefinition Injunctive relief allows the owner of a trade secret to legally prohibit a former employee, for example, from misappropriating, publicly disclosing, or otherwise profiting from knowledge of the trade secret. Scope The scope of an injunction varies based on the on the nature of the potential misappropriator’s knowledge of the trade secret, and on the potential competitive advantage that knowledge might grant. Duration and Termination The duration of an injunction is determined based on",
+    "context_ids": [
+      "openstax-iip-p185-f00"
+    ],
+    "context_chars": 569,
+    "elapsed_ms": 1.72,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": false
+  }
+]

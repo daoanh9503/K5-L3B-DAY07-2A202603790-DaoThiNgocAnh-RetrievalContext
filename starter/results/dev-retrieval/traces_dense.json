@@ -1,0 +1,565 @@
+[
+  {
+    "query_id": "q01",
+    "question": "When is a copyright granted to an author in the United States?",
+    "filter": null,
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p103-f00",
+        "page": 103,
+        "score": 0.8819,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p102-f02",
+        "page": 102,
+        "score": 0.8698,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p102-f03",
+        "page": 102,
+        "score": 0.8589,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p103-f00 | intro-intellectual-property.pdf | page 103]\nHow to Obtain a Copyright In America, the copyright system is administered by the U.S. Copyright Office, which is part of the Library of Congress and maintains a registry of copyrighted works. Interestingly, registration is not required to obtain a copyright. It is automatically granted to an author at the moment of creation—i.e., as soon as the work is expressed in a tangible form that allows it to be seen or copied, such as being written on paper or on a computer, or recorded as video or audio",
+    "context_ids": [
+      "openstax-iip-p103-f00"
+    ],
+    "context_chars": 569,
+    "elapsed_ms": 94.8,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q02",
+    "question": "Under what condition is registration required?",
+    "filter": {
+      "chapter": "3"
+    },
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p118-f04",
+        "page": 118,
+        "score": 0.8323,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p118-f03",
+        "page": 118,
+        "score": 0.8191,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p103-f01",
+        "page": 103,
+        "score": 0.8169,
+        "hit": true
+      }
+    ],
+    "context": "[openstax-iip-p118-f04 | intro-intellectual-property.pdf | page 118]\ntes joined the Berne Convention and had to amend its copyright law to comply with the terms of that convention. Notice and registration of copyright are now discretionary, but recommended. Registration of a copyright provides a legal record of copyright ownership in cases where infringement is alleged, and in fact is required before the author can even file suit for infringement.xx To register a published work, an author will usually need to submit two copies of the work to the U.S. Copyright Of",
+    "context_ids": [
+      "openstax-iip-p118-f04"
+    ],
+    "context_chars": 569,
+    "elapsed_ms": 58.52,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": false
+  },
+  {
+    "query_id": "q03",
+    "question": "How many years does copyright protection continue after a single author dies?",
+    "filter": null,
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p116-f03",
+        "page": 116,
+        "score": 0.874,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p102-f03",
+        "page": 102,
+        "score": 0.8689,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p116-f04",
+        "page": 116,
+        "score": 0.8648,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p116-f03 | intro-intellectual-property.pdf | page 116]\nies. For an individual, the term of a copyright is the life of the author plus 70 years after the author is deceased. For a work with two or more authors, the term expires 70 years after the last author’s death. Finally, for works that are “made for hire,” or anonymous or pseudonymous works, the copyright term lasts 95 years from the first publication or 120 years from the year of the work’s creation, whichever comes first.xv As examples, assume a musical artist writes a song that is published a",
+    "context_ids": [
+      "openstax-iip-p116-f03"
+    ],
+    "context_chars": 569,
+    "elapsed_ms": 46.56,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q04",
+    "question": "How long does copyright last for a work made for hire or an anonymous work?",
+    "filter": null,
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p116-f04",
+        "page": 116,
+        "score": 0.9061,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p116-f03",
+        "page": 116,
+        "score": 0.8991,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p116-f05",
+        "page": 116,
+        "score": 0.8791,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p116-f04 | intro-intellectual-property.pdf | page 116]\na musical artist writes a song that is published and performed under their name. The copyright will last 70 years beyond their death, and could conceivably be quite valuable to their heirs. On the other hand, imagine that an anonymous Korean War soldier’s diary, dated “December 1951” is discovered in an antique shop in the year 2013 and published that same year. Ordinarily, the copyright for an anonymous work would last for 95 years from the date of first publication, expiring in the year 2108. ",
+    "context_ids": [
+      "openstax-iip-p116-f04"
+    ],
+    "context_chars": 569,
+    "elapsed_ms": 54.13,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": false
+  },
+  {
+    "query_id": "q05",
+    "question": "After buying copies of a novel, can a bookstore make additional copies of it?",
+    "filter": null,
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p117-f02",
+        "page": 117,
+        "score": 0.8703,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p122-f08",
+        "page": 122,
+        "score": 0.8288,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p117-f09",
+        "page": 117,
+        "score": 0.8286,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p117-f02 | intro-intellectual-property.pdf | page 117]\nto someone else. For example, once the author of a copyrighted novel lets a publisher distribute copies of that novel to a bookstore, the author’s distribution rights to those copies are ended and the bookstore can do whatever it wants with them—sell them, rent them, give them away, or throw them in the dumpster. The bookstore owner cannot, however, make additional copies of the book because the first-sale doctrine does not limit a copyright owner’s reproduction right (the first right listed abo\n\n[openstax-iip-p122-f08 | intro-intellectual-property.pdf | page 122]\ne same author; and such bulk photocopying must be limited to nine instances per class during one term. xxxii",
+    "context_ids": [
+      "openstax-iip-p117-f02",
+      "openstax-iip-p122-f08"
+    ],
+    "context_chars": 748,
+    "elapsed_ms": 46.79,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q06",
+    "question": "Why can't Einstein's famous mass-energy formula be protected by copyright?",
+    "filter": null,
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p115-f03",
+        "page": 115,
+        "score": 0.902,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p115-f04",
+        "page": 115,
+        "score": 0.861,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p116-f04",
+        "page": 116,
+        "score": 0.8539,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p115-f03 | intro-intellectual-property.pdf | page 115]\ngalactic evil, but you can copyright the particular expression of that idea in the screenplay and motion picture Star Wars. Because it is an abstract concept or idea, Einstein’s formula E = MC2 is also not copyrightable. It is true that Einstein was the first to derive the famous formula involving mass and energy, which at first blush seems to fit the requirement for creative authorship in a copyrightable work. But the formula was derived from observation of natural physical laws, and must remai",
+    "context_ids": [
+      "openstax-iip-p115-f03"
+    ],
+    "context_chars": 569,
+    "elapsed_ms": 49.5,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q07",
+    "question": "Can an ordinary phone book be copyrighted?",
+    "filter": null,
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p115-f04",
+        "page": 115,
+        "score": 0.8408,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p116-f02",
+        "page": 116,
+        "score": 0.8318,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p116-f04",
+        "page": 116,
+        "score": 0.8273,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p115-f04 | intro-intellectual-property.pdf | page 115]\nservation of natural physical laws, and must remain in the public domain lest private intellectual property rights create a blockade that prevents scientists and mathematicians from continuing their research and teaching. Also noncopyrightable are names, addresses, and other known facts that are not creatively compiled. That’s why a phone book cannot be copyrighted, whereas the creative compilation of facts in a Chinese-American phone directory listing “Bean Curd & Bean Sprout Shops” may be unde",
+    "context_ids": [
+      "openstax-iip-p115-f04"
+    ],
+    "context_chars": 569,
+    "elapsed_ms": 44.52,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q08",
+    "question": "How many copies of a copyrighted work may a public library or archive keep for preservation, and on what condition?",
+    "filter": null,
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p122-f04",
+        "page": 122,
+        "score": 0.8782,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p102-f03",
+        "page": 102,
+        "score": 0.8557,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p122-f03",
+        "page": 122,
+        "score": 0.8501,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p122-f04 | intro-intellectual-property.pdf | page 122]\nup to three copies of a copyrighted work, but a copyright notice must be included on each copy. Libraries and archives will not be held liable for “unsupervised use of reproducing equipment located on its premises” if there is a notice on the equipment that a copy may be subject to copyright law.xxx Any use of photocopied copyrighted materials must be specifically for private study, scholarship, or research, and any other use constitutes infringement. Photocopying copyrighted materials in a busi",
+    "context_ids": [
+      "openstax-iip-p122-f04"
+    ],
+    "context_chars": 569,
+    "elapsed_ms": 50.18,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q09",
+    "question": "What are the two primary types of marks registered with the USPTO?",
+    "filter": null,
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p157-f03",
+        "page": 157,
+        "score": 0.879,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p155-f03",
+        "page": 155,
+        "score": 0.8432,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p147-f01",
+        "page": 147,
+        "score": 0.8416,
+        "hit": true
+      }
+    ],
+    "context": "[openstax-iip-p157-f03 | intro-intellectual-property.pdf | page 157]\nthe mark, the right to bring civil action against infringers, and protection against false advertising. Unregistered trademarks are usually identified by the “TM” symbol displayed on the product, package, or advertising used to promote them. Trademarks formally registered with the USPTO, however, receive additional benefits: • A legal presumption of ownership of the mark and exclusive right to use the mark nationwide on or in connection with the goods/services listed in the registration. • Publi",
+    "context_ids": [
+      "openstax-iip-p157-f03"
+    ],
+    "context_chars": 569,
+    "elapsed_ms": 48.26,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": false
+  },
+  {
+    "query_id": "q10",
+    "question": "Which category of mark is considered the strongest, like Xerox or Kodak?",
+    "filter": null,
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p153-f01",
+        "page": 153,
+        "score": 0.8609,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p154-f02",
+        "page": 154,
+        "score": 0.8119,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p153-f05",
+        "page": 153,
+        "score": 0.8003,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p153-f01 | intro-intellectual-property.pdf | page 153]\n, symbols, or devices that have no relation to the good or service being sold and have no meaning other than to distinctly identify the product or service and distinguish it in the minds of consumers from those of any other vendor. “Xerox” is a good example of a fanciful mark, as are “Google” and “Kodak.” Fanciful marks are considered the strongest type of mark and are prima facie registrable with the USPTO. Arbitrary Marks Arbitrary marks are real words in common usage that have no descriptive ",
+    "context_ids": [
+      "openstax-iip-p153-f01"
+    ],
+    "context_chars": 569,
+    "elapsed_ms": 47.11,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q11",
+    "question": "What is the minimum level of distinctiveness for a mark to be registrable without secondary meaning?",
+    "filter": null,
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p153-f03",
+        "page": 153,
+        "score": 0.8832,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p153-f04",
+        "page": 153,
+        "score": 0.8647,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p152-f05",
+        "page": 152,
+        "score": 0.8502,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p153-f03 | intro-intellectual-property.pdf | page 153]\nld. They require imagination, insight, or perception on the part of the consumer as to the nature of the article.xxv Examples include “iPad” for the tablet computer and “Coppertone” for the sunscreen lotion. A suggestive mark is the minimum required for a mark to be unconditionally registrable absent a secondary meaning. Or in the words of Judge Friendly, “The validity of the mark ends where suggestion ends and description begins.”xxvi From this point on along the spectrum of distinctiveness, th",
+    "context_ids": [
+      "openstax-iip-p153-f03"
+    ],
+    "context_chars": 569,
+    "elapsed_ms": 48.95,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q12",
+    "question": "Under what condition can a sound be registered as a trademark?",
+    "filter": null,
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p151-f00",
+        "page": 151,
+        "score": 0.8824,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p157-f02",
+        "page": 157,
+        "score": 0.855,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p155-f05",
+        "page": 155,
+        "score": 0.844,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p151-f00 | intro-intellectual-property.pdf | page 151]\nSounds can also be trademarked provided they indicate the source of the product or service with which they are associated, and indeed, there are approximately 700 trademarked sounds registered at the USPTO.xx These include Tarzan’s Yell, the THX theme heard at the beginning of a movie, MGM’s roaring lion, America Online’s “You’ve got mail” announcement, the sequence of chimes heard with the display of the NBC logo on TV, and, naturally, the sound of a duck quacking “Aflac!” for the American Fami\n\n[openstax-iip-p155-f05 | intro-intellectual-property.pdf | page 155]\nic mind with the distinctive origin of products or services, then it may be eligible for a trademark, as is the case with “Sears” and “Macy’s.”",
+    "context_ids": [
+      "openstax-iip-p151-f00",
+      "openstax-iip-p155-f05"
+    ],
+    "context_chars": 783,
+    "elapsed_ms": 53.7,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q13",
+    "question": "Is federal registration required to get protection?",
+    "filter": {
+      "chapter": "4"
+    },
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p157-f04",
+        "page": 157,
+        "score": 0.8395,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p157-f02",
+        "page": 157,
+        "score": 0.8364,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p155-f03",
+        "page": 155,
+        "score": 0.8139,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p157-f04 | intro-intellectual-property.pdf | page 157]\ngoods/services listed in the registration. • Public notice of claim of ownership of the mark. • The ability to bring an action concerning the mark in federal court. • The use of the U.S. registration as a basis to obtain registration in foreign countries. • The ability to record the U.S. registration with the U.S. Customs and Border Protection (CBP) Service to prevent importation of infringing foreign goods. • The right to use the federal registration symbol ® • Listing in the United States Pate",
+    "context_ids": [
+      "openstax-iip-p157-f04"
+    ],
+    "context_chars": 569,
+    "elapsed_ms": 48.27,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": false
+  },
+  {
+    "query_id": "q14",
+    "question": "What two criteria must information meet to qualify as a trade secret?",
+    "filter": null,
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p175-f01",
+        "page": 175,
+        "score": 0.906,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p178-f07",
+        "page": 178,
+        "score": 0.89,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p178-f00",
+        "page": 178,
+        "score": 0.8788,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p175-f01 | intro-intellectual-property.pdf | page 175]\ns can be protected as trade secrets. To qualify as a trade secret, the information in question must meet two essential criteria. First, the information must attain its value from the fact that it is not generally known. Second, the owner of that information must take reasonable efforts to maintain its secrecy. Absent these two elements, information does not qualify as a trade secret and is not entitled to trade secret protections that prevent or remedy misappropriation under the UTSA.v Trade sec",
+    "context_ids": [
+      "openstax-iip-p175-f01"
+    ],
+    "context_chars": 569,
+    "elapsed_ms": 48.73,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q15",
+    "question": "How are damages measured?",
+    "filter": {
+      "chapter": "5"
+    },
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "openstax-iip-p186-f01",
+        "page": 186,
+        "score": 0.8547,
+        "hit": true
+      },
+      {
+        "id": "openstax-iip-p186-f00",
+        "page": 186,
+        "score": 0.8383,
+        "hit": false
+      },
+      {
+        "id": "openstax-iip-p186-f03",
+        "page": 186,
+        "score": 0.8128,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-iip-p186-f01 | intro-intellectual-property.pdf | page 186]\nured by the actual loss caused by the misappropriation as well as any resulting unjust enrichment of the misappropriator. Where the amount of actual loss or unjust enrichment cannot be accurately calculated, the UTSA provides that damages may also be measured by the imposition of a reasonable royalty for the misappropriator’s unauthorized disclosure or use of the trade secret. Exemplary or punitive damages may be awarded where the court finds that the misappropriation was willful and malicious.x",
+    "context_ids": [
+      "openstax-iip-p186-f01"
+    ],
+    "context_chars": 569,
+    "elapsed_ms": 45.77,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  }
+]

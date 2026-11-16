@@ -1,0 +1,38 @@
+[
+  {
+    "strategy": "dense",
+    "n": 15,
+    "top_k": 3,
+    "budget_chars": 1800,
+    "hit1": 11,
+    "hit3": 15,
+    "context_hit": 15,
+    "median_ms": 58.45,
+    "avg_context_chars": 1582.4,
+    "cost_usd": 0
+  },
+  {
+    "strategy": "bm25",
+    "n": 15,
+    "top_k": 3,
+    "budget_chars": 1800,
+    "hit1": 9,
+    "hit3": 13,
+    "context_hit": 13,
+    "median_ms": 1.86,
+    "avg_context_chars": 1678.3,
+    "cost_usd": 0
+  },
+  {
+    "strategy": "hybrid_rrf",
+    "n": 15,
+    "top_k": 3,
+    "budget_chars": 1800,
+    "hit1": 12,
+    "hit3": 14,
+    "context_hit": 14,
+    "median_ms": 53.12,
+    "avg_context_chars": 1691.9,
+    "cost_usd": 0
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "query_id": "q01",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold."
+  },
+  {
+    "query_id": "q02",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "note": "Đúng và đủ: 'only required ... infringement suit in federal court' (p103-f01); p118-f04 bổ sung đúng."
+  },
+  {
+    "query_id": "q03",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold."
+  },
+  {
+    "query_id": "q04",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold. Lần này cite đúng p116-f03."
+  },
+  {
+    "query_id": "q05",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold."
+  },
+  {
+    "query_id": "q06",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold. p115-f03 (abstract idea) và p115-f04 (public domain) đều hỗ trợ."
+  },
+  {
+    "query_id": "q07",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold. Câu thêm về 'creative compilation' cũng có trong chunk p115-f04."
+  },
+  {
+    "query_id": "q08",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold. Câu thêm về liability cũng có trong chunk."
+  },
+  {
+    "query_id": "q09",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold. Budget 1800 giữ được p147-f01 trong context (so với baseline bị loại)."
+  },
+  {
+    "query_id": "q10",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng (fanciful marks). Cụm 'inherently distinctive' không có nguyên văn trong chunk nhưng không sai; phần còn lại được p153-f01 hỗ trợ."
+  },
+  {
+    "query_id": "q11",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold."
+  },
+  {
+    "query_id": "q12",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold. Câu diễn giải thêm ('distinctive enough...') là suy luận nhẹ, không mâu thuẫn nguồn."
+  },
+  {
+    "query_id": "q13",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng: trademark không bắt buộc đăng ký liên bang; p157-f05 hỗ trợ (common law, ví dụ Google). Không nêu rõ 'đăng ký có lợi ích' nhưng ý chính đủ."
+  },
+  {
+    "query_id": "q14",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold."
+  },
+  {
+    "query_id": "q15",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold. Câu hỏi mơ hồ (không nói rõ trade secret) nhưng agent vẫn tìm đúng đoạn UTSA p186."
+  },
+  {
+    "query_id": "u01",
+    "abstention_correct": true,
+    "citation_support": [],
+    "note": "Agent search 3 lần rồi từ chối, không thêm khẳng định nào. Đúng hành vi search_and_abstain."
+  },
+  {
+    "query_id": "u02",
+    "abstention_correct": true,
+    "citation_support": [],
+    "note": "Agent search 3 lần rồi từ chối, không thêm khẳng định nào. Đúng hành vi search_and_abstain."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "strategy": "dense",
+    "n": 5,
+    "top_k": 3,
+    "budget_chars": 800,
+    "hit1": 5,
+    "hit3": 5,
+    "context_hit": 5,
+    "median_ms": 51.76,
+    "avg_context_chars": 606.6,
+    "cost_usd": 0
+  },
+  {
+    "strategy": "bm25",
+    "n": 5,
+    "top_k": 3,
+    "budget_chars": 800,
+    "hit1": 2,
+    "hit3": 3,
+    "context_hit": 2,
+    "median_ms": 2.52,
+    "avg_context_chars": 569,
+    "cost_usd": 0
+  },
+  {
+    "strategy": "hybrid_rrf",
+    "n": 5,
+    "top_k": 3,
+    "budget_chars": 800,
+    "hit1": 4,
+    "hit3": 4,
+    "context_hit": 4,
+    "median_ms": 48.07,
+    "avg_context_chars": 569,
+    "cost_usd": 0
+  },
+  {
+    "strategy": "hybrid_rerank",
+    "n": 5,
+    "top_k": 3,
+    "budget_chars": 800,
+    "hit1": 5,
+    "hit3": 5,
+    "context_hit": 5,
+    "median_ms": 565.62,
+    "avg_context_chars": 569,
+    "cost_usd": 0
+  }
+]

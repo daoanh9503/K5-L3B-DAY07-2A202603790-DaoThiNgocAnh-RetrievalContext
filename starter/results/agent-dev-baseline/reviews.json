@@ -1,0 +1,130 @@
+[
+  {
+    "query_id": "q01",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold."
+  },
+  {
+    "query_id": "q02",
+    "answer_grade": 1,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng ý chính (cần đăng ký trước khi kiện vi phạm), p118-f04 hỗ trợ. Thiếu điều kiện 'chỉ khi' và 'tòa án liên bang' như gold p103."
+  },
+  {
+    "query_id": "q03",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold."
+  },
+  {
+    "query_id": "q04",
+    "answer_grade": 1,
+    "citation_support": [
+      false
+    ],
+    "note": "Work made for hire: đúng (95 năm / 120 năm, 'whichever is shorter' tương đương 'comes first'). Anonymous: chỉ nói 95 năm, thiếu quy tắc 120 năm. Chunk p116-f04 chỉ nói anonymous 95 năm; quy tắc work-for-hire nằm ở p116-f03 nhưng không được trích dẫn → citation không hỗ trợ toàn bộ câu trả lời."
+  },
+  {
+    "query_id": "q05",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold."
+  },
+  {
+    "query_id": "q06",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold. Chunk p115-f03 có 'abstract concept or idea' và 'derived from observation of natural physical laws'."
+  },
+  {
+    "query_id": "q07",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold. Câu thêm về 'creative compilation' cũng có trong chunk p115-f04."
+  },
+  {
+    "query_id": "q08",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold."
+  },
+  {
+    "query_id": "q09",
+    "answer_grade": 0,
+    "citation_support": [],
+    "note": "LỖI DEV #1 – từ chối nhầm. Chunk gold p147-f01 được retrieve ở rank 2–3 cả 3 lượt, nhưng budget 800 ký tự chỉ chứa được chunk rank 1 (p157-f03) → evidence bị loại khỏi context. Search lại không giúp vì rank 1 vẫn chiếm hết budget."
+  },
+  {
+    "query_id": "q10",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold."
+  },
+  {
+    "query_id": "q11",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold."
+  },
+  {
+    "query_id": "q12",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold. Câu diễn giải thêm ('distinctive enough...') là suy luận nhẹ, không mâu thuẫn nguồn."
+  },
+  {
+    "query_id": "q13",
+    "answer_grade": 0,
+    "citation_support": [],
+    "note": "LỖI DEV #2 – từ chối nhầm. Chunk p157-f05 (có evidence liên quan) ở rank 3 nhưng bị loại do budget 800; context chỉ có p157-f04. Câu hỏi mơ hồ (không nói trademark) góp phần."
+  },
+  {
+    "query_id": "q14",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold."
+  },
+  {
+    "query_id": "q15",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "note": "Đúng và đủ so với expected_answer; chunk trích dẫn chứa nguyên văn evidence gold. Câu hỏi mơ hồ (không nói rõ trade secret) nhưng agent vẫn tìm đúng đoạn UTSA p186."
+  },
+  {
+    "query_id": "u01",
+    "abstention_correct": true,
+    "citation_support": [],
+    "note": "Agent search 3 lần rồi từ chối, không thêm khẳng định nào. Đúng hành vi search_and_abstain."
+  },
+  {
+    "query_id": "u02",
+    "abstention_correct": true,
+    "citation_support": [],
+    "note": "Agent search 3 lần rồi từ chối, không thêm khẳng định nào. Đúng hành vi search_and_abstain."
+  }
+]

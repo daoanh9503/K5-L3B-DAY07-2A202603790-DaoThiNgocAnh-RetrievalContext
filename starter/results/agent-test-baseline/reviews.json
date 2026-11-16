@@ -1,0 +1,9 @@
+[
+  {"query_id": "q16", "answer_grade": 2, "citation_support": [true], "note": "Đúng và đủ; p172-f01 chứa nguyên văn gold."},
+  {"query_id": "q17", "answer_grade": 2, "citation_support": [true], "note": "Đủ 5 hành vi; p181-f00 chứa gold."},
+  {"query_id": "q18", "answer_grade": 0, "citation_support": [], "note": "Từ chối nhầm: câu có đáp án ở p186-f05. Budget 800 không giữ được chunk evidence trong context; 3 query lặp lại giống hệt."},
+  {"query_id": "q19", "answer_grade": 2, "citation_support": [true], "note": "Giống cấu hình selected; p155-f03 chứa gold."},
+  {"query_id": "q20", "answer_grade": 1, "citation_support": [true], "note": "Đúng một phần: nêu cách 'head start' (thời gian phát triển độc lập), citation p185-f02 hỗ trợ đúng câu này; nhưng thiếu ý chính của gold (thời gian đối thủ tìm ra bằng cách hợp lệ, p185-f01 không có trong context)."},
+  {"query_id": "u03", "abstention_correct": true, "citation_support": [], "note": "Từ chối đúng; corpus không có 'Vietnam'."},
+  {"query_id": "u04", "abstention_correct": true, "citation_support": [], "note": "Từ chối đúng; corpus không có 'renew'."}
+]

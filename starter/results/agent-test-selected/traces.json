@@ -1,0 +1,775 @@
+[
+  {
+    "query_id": "q16",
+    "split": "test",
+    "question": "How does trade secret law differ from patent law regarding public disclosure?",
+    "answerable": true,
+    "status": "answered",
+    "answer": "Trade secret law differs from patent law in that patent law requires public disclosure of the intellectual property to be protected, such as through a patent application. In contrast, trade secret law necessitates that the intellectual property remains undisclosed to maintain its value. Essentially, while patents require information to be made public, trade secrets thrive on confidentiality and are protected only against misappropriation, not against independent discovery or reverse engineering by competitors [openstax-iip-p172-f01][openstax-iip-p173-f06].",
+    "citations": [
+      "openstax-iip-p172-f01",
+      "openstax-iip-p173-f06"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "trade secret law patent law public disclosure",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-iip-p172-f01",
+            "text": "atent or trademark law. Whereas patent and trademark law require that the intellectual property to be protected be publicly “disclosed” (for example, through a patent application), trade secret law requires precisely the opposite—that is, that the intellectual property to be protected not be publicly disclosed. The subject matter of a trade secret may be virtually any information that is of value as a result of not being generally known. There is enormous economic value in trade secrets—for comp",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 172,
+            "metadata": {
+              "char_len": 500,
+              "section": "5.1 Trade Secret Protection",
+              "chapter": "5",
+              "page_id": "iip-p172"
+            },
+            "score": 0.9072
+          },
+          {
+            "id": "openstax-iip-p173-f06",
+            "text": "rse engineering by the public or a competitor. Table 5.1 Whereas patent and trademark law involve an affirmative assertion of an intellectual property right, trade secret law only actively operates after a misappropriation or threatened misappropriation of the trade secret has occurred. Due to this difference in the way trade secret law protects intellectual property, the protections given to trade secrets are largely dependent on classifications of information made by courts. Thus, the foundati",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 173,
+            "metadata": {
+              "chapter": "5",
+              "page_id": "iip-p173",
+              "section": "5.1 Trade Secret Protection",
+              "char_len": 500
+            },
+            "score": 0.8892
+          },
+          {
+            "id": "openstax-iip-p173-f02",
+            "text": "t it as a trade secret. Disadvantages Although there is no definite expiration of the protection granted to trade secrets, the protection prohibits only the disclosure or use of the trade secret by one to whom the secret was disclosed in confidence. Unlike patent law, trade secret law does not offer any affirmative protection against the use of the same intellectual property that is independently derived or reverse engineered by a competitor. Consequently, if the intellectual property to be prot",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 173,
+            "metadata": {
+              "char_len": 500,
+              "section": "5.1 Trade Secret Protection",
+              "page_id": "iip-p173",
+              "chapter": "5"
+            },
+            "score": 0.8832
+          }
+        ],
+        "context": "[openstax-iip-p172-f01 | intro-intellectual-property.pdf | page 172]\natent or trademark law. Whereas patent and trademark law require that the intellectual property to be protected be publicly “disclosed” (for example, through a patent application), trade secret law requires precisely the opposite—that is, that the intellectual property to be protected not be publicly disclosed. The subject matter of a trade secret may be virtually any information that is of value as a result of not being generally known. There is enormous economic value in trade secrets—for comp\n\n[openstax-iip-p173-f06 | intro-intellectual-property.pdf | page 173]\nrse engineering by the public or a competitor. Table 5.1 Whereas patent and trademark law involve an affirmative assertion of an intellectual property right, trade secret law only actively operates after a misappropriation or threatened misappropriation of the trade secret has occurred. Due to this difference in the way trade secret law protects intellectual property, the protections given to trade secrets are largely dependent on classifications of information made by courts. Thus, the foundati\n\n[openstax-iip-p173-f02 | intro-intellectual-property.pdf | page 173]\nt it as a trade secret. Disadvantages Although there is no definite expiration of the protection granted to trade secrets, the protection prohibits only the disclosure or use of the trade secret by one to whom the secret was disclosed in confidence. Unlike patent law, trade secret law does not offer any affirmative protection against the use of the same intellectual property that is independently derived or reverse engineered by a competitor. Consequently, if the intellectual property to be prot",
+        "context_ids": [
+          "openstax-iip-p172-f01",
+          "openstax-iip-p173-f06",
+          "openstax-iip-p173-f02"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "error": null,
+    "n_searches": 1,
+    "elapsed_s": 4.37,
+    "usage": {
+      "calls": 2,
+      "prompt_tokens": 766,
+      "completion_tokens": 124
+    }
+  },
+  {
+    "query_id": "q17",
+    "split": "test",
+    "question": "What counts as improper means of acquiring a trade secret under the UTSA?",
+    "answerable": true,
+    "status": "answered",
+    "answer": "Under the Uniform Trade Secrets Act (UTSA), improper means of acquiring a trade secret includes actions such as theft, bribery, misrepresentation, breach or inducement of a breach of a duty to maintain secrecy, or espionage through electronic or other means. The UTSA specifically prohibits the acquisition of a trade secret by a person who knows or has reason to know that it was acquired through these improper means [openstax-iip-p181-f00].",
+    "citations": [
+      "openstax-iip-p181-f00"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "improper means of acquiring a trade secret UTSA",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-iip-p181-f00",
+            "text": "Misappropriation through Improper Means The first type of misappropriation under the UTSA is acquisition of a trade secret through improper means. Specifically, the UTSA prohibits the “acquisition of a trade secret of another, by a person who knows or has reason to know the trade secret was acquired by improper means.”xxii “Improper means” includes theft, bribery, misrepresentation, breach or inducement of a breach of a duty to maintain secrecy, or espionage through electronic or other means.xxi",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 181,
+            "metadata": {
+              "page_id": "iip-p181",
+              "chapter": "5",
+              "section": "5.5 Misappropriation of Trade Secrets",
+              "char_len": 500
+            },
+            "score": 0.9358
+          },
+          {
+            "id": "openstax-iip-p180-f03",
+            "text": " owners use direct evidence and circumstantial evidence to prove that a misappropriation of trade secrets has occurred. The enforcement provisions of the UTSA allow companies and individuals to protect information that qualifies as a trade secret. The protections allowed for by the UTSA are triggered by the actual or threatened “misappropriation” of trade secrets. “Misappropriation” is defined in two ways: (1) acquisition of a trade secret through improper means, or (2) disclosure or use of a tr",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 180,
+            "metadata": {
+              "page_id": "iip-p180",
+              "chapter": "5",
+              "char_len": 500,
+              "section": "5.4 The Secrecy Requirement | 5.5 Misappropriation of Trade Secrets"
+            },
+            "score": 0.9122
+          },
+          {
+            "id": "openstax-iip-p181-f03",
+            "text": "u possess, disclose, or use a trade secret that you know or have reason to know is not intended to be revealed to you, beware. UTSA’s Definition of Misappropriation The UTSA’s definition of misappropriation is rather broad. The protection granted to trade secret owners under the UTSA is further expanded by prohibiting not only the actual, but also the threatened, misappropriation of trade secrets. The distinction between these two types of misappropriation is basically one of timing. The UTSA pr",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 181,
+            "metadata": {
+              "char_len": 500,
+              "section": "5.5 Misappropriation of Trade Secrets",
+              "chapter": "5",
+              "page_id": "iip-p181"
+            },
+            "score": 0.9087
+          }
+        ],
+        "context": "[openstax-iip-p181-f00 | intro-intellectual-property.pdf | page 181]\nMisappropriation through Improper Means The first type of misappropriation under the UTSA is acquisition of a trade secret through improper means. Specifically, the UTSA prohibits the “acquisition of a trade secret of another, by a person who knows or has reason to know the trade secret was acquired by improper means.”xxii “Improper means” includes theft, bribery, misrepresentation, breach or inducement of a breach of a duty to maintain secrecy, or espionage through electronic or other means.xxi\n\n[openstax-iip-p180-f03 | intro-intellectual-property.pdf | page 180]\n owners use direct evidence and circumstantial evidence to prove that a misappropriation of trade secrets has occurred. The enforcement provisions of the UTSA allow companies and individuals to protect information that qualifies as a trade secret. The protections allowed for by the UTSA are triggered by the actual or threatened “misappropriation” of trade secrets. “Misappropriation” is defined in two ways: (1) acquisition of a trade secret through improper means, or (2) disclosure or use of a tr\n\n[openstax-iip-p181-f03 | intro-intellectual-property.pdf | page 181]\nu possess, disclose, or use a trade secret that you know or have reason to know is not intended to be revealed to you, beware. UTSA’s Definition of Misappropriation The UTSA’s definition of misappropriation is rather broad. The protection granted to trade secret owners under the UTSA is further expanded by prohibiting not only the actual, but also the threatened, misappropriation of trade secrets. The distinction between these two types of misappropriation is basically one of timing. The UTSA pr",
+        "context_ids": [
+          "openstax-iip-p181-f00",
+          "openstax-iip-p180-f03",
+          "openstax-iip-p181-f03"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "error": null,
+    "n_searches": 1,
+    "elapsed_s": 3.79,
+    "usage": {
+      "calls": 2,
+      "prompt_tokens": 813,
+      "completion_tokens": 115
+    }
+  },
+  {
+    "query_id": "q18",
+    "split": "test",
+    "question": "Is there a cap on punitive damages for trade secret misappropriation?",
+    "answerable": true,
+    "status": "answered",
+    "answer": "Yes, there is a cap on punitive damages for trade secret misappropriation. Specifically, a punitive or exemplary award may not exceed twice the amount of the damage award. However, it's important to note that some states have modified this cap [openstax-iip-p186-f05].",
+    "citations": [
+      "openstax-iip-p186-f05"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "cap on punitive damages trade secret misappropriation",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-iip-p186-f01",
+            "text": "ured by the actual loss caused by the misappropriation as well as any resulting unjust enrichment of the misappropriator. Where the amount of actual loss or unjust enrichment cannot be accurately calculated, the UTSA provides that damages may also be measured by the imposition of a reasonable royalty for the misappropriator’s unauthorized disclosure or use of the trade secret. Exemplary or punitive damages may be awarded where the court finds that the misappropriation was willful and malicious.x",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 186,
+            "metadata": {
+              "section": "5.6 Remedies Available for the Misappropriation of Trade Secrets",
+              "char_len": 500,
+              "chapter": "5",
+              "page_id": "iip-p186"
+            },
+            "score": 0.8844
+          },
+          {
+            "id": "openstax-iip-p186-f05",
+            "text": "sult of this conduct, $85 million dollars in exemplary damages was awarded. A punitive or exemplary award may not exceed twice the amount of the damage award.xlii However, some states have modified this cap.xliii Table 5.3 In exceptional circumstances, an injunction may entitle the owner of the trade secret to a royalty for the period of time during which the use of the trade secret was prohibited. For example, the Supreme Court of Georgia has affirmed a trial court’s reliance on a seldom-used p",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 186,
+            "metadata": {
+              "page_id": "iip-p186",
+              "char_len": 500,
+              "chapter": "5",
+              "section": "5.6 Remedies Available for the Misappropriation of Trade Secrets"
+            },
+            "score": 0.8833
+          },
+          {
+            "id": "openstax-iip-p184-f00",
+            "text": "5.6 Remedies Available for the Misappropriation of Trade Secrets Figure 5.6 (credit: Joe Ravi via Wikimedia Commons / CC BY SA 3.0) Learning Objectives After completing this section, you will be able to • Describe how injunctions are used to enjoin actual and threatened misappropriations of trade secrets. • Explain how remedies are awarded under the Uniform Trade Secrets Act. The UTSA provides a full array of remedies, including statutory damages, injunctive relief, attorneys’ fees, and exemplar",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 184,
+            "metadata": {
+              "chapter": "5",
+              "section": "5.6 Remedies Available for the Misappropriation of Trade Secrets",
+              "page_id": "iip-p184",
+              "char_len": 500
+            },
+            "score": 0.8696
+          }
+        ],
+        "context": "[openstax-iip-p186-f01 | intro-intellectual-property.pdf | page 186]\nured by the actual loss caused by the misappropriation as well as any resulting unjust enrichment of the misappropriator. Where the amount of actual loss or unjust enrichment cannot be accurately calculated, the UTSA provides that damages may also be measured by the imposition of a reasonable royalty for the misappropriator’s unauthorized disclosure or use of the trade secret. Exemplary or punitive damages may be awarded where the court finds that the misappropriation was willful and malicious.x\n\n[openstax-iip-p186-f05 | intro-intellectual-property.pdf | page 186]\nsult of this conduct, $85 million dollars in exemplary damages was awarded. A punitive or exemplary award may not exceed twice the amount of the damage award.xlii However, some states have modified this cap.xliii Table 5.3 In exceptional circumstances, an injunction may entitle the owner of the trade secret to a royalty for the period of time during which the use of the trade secret was prohibited. For example, the Supreme Court of Georgia has affirmed a trial court’s reliance on a seldom-used p\n\n[openstax-iip-p184-f00 | intro-intellectual-property.pdf | page 184]\n5.6 Remedies Available for the Misappropriation of Trade Secrets Figure 5.6 (credit: Joe Ravi via Wikimedia Commons / CC BY SA 3.0) Learning Objectives After completing this section, you will be able to • Describe how injunctions are used to enjoin actual and threatened misappropriations of trade secrets. • Explain how remedies are awarded under the Uniform Trade Secrets Act. The UTSA provides a full array of remedies, including statutory damages, injunctive relief, attorneys’ fees, and exemplar",
+        "context_ids": [
+          "openstax-iip-p186-f01",
+          "openstax-iip-p186-f05",
+          "openstax-iip-p184-f00"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "error": null,
+    "n_searches": 1,
+    "elapsed_s": 3.01,
+    "usage": {
+      "calls": 2,
+      "prompt_tokens": 809,
+      "completion_tokens": 80
+    }
+  },
+  {
+    "query_id": "q19",
+    "split": "test",
+    "question": "Can a family name be registered as a trademark?",
+    "answerable": true,
+    "status": "answered",
+    "answer": "A family name can be registered as a trademark, but only under certain conditions. The USPTO evaluates factors such as the rarity of the surname, any connection of the surname to the applicant, and whether the term has recognized meanings beyond being a surname. Common surnames like \"Smith\" and \"Johnson\" are generally not eligible for trademark registration unless they meet specific criteria [openstax-iip-p155-f03].",
+    "citations": [
+      "openstax-iip-p155-f03"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "family name trademark registration",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-iip-p155-f03",
+            "text": "ally not eligible for trademark registration. These are surnames, geographic marks, and ornamental, immoral, or offensive marks.xxx Surnames or family names such as “Smith” and “Johnson” cannot be trademarked except under certain conditions. The USPTO assesses five factors in determining whether a surname is eligible for a trademark: • Whether the surname is rare. • Whether the term is the surname of anyone connected with the applicant. • Whether the term has any recognized meaning other than as",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 155,
+            "metadata": {
+              "chapter": "4",
+              "char_len": 500,
+              "section": "4.7 Bars to Trademark",
+              "page_id": "iip-p155"
+            },
+            "score": 0.8885
+          },
+          {
+            "id": "openstax-iip-p157-f05",
+            "text": "ation symbol ® • Listing in the United States Patent and Trademark Office’s online databases.xxxv Because registration costs money, many small businesses choose to rely upon the common law protections afforded trademarks, especially when just starting up. A case in point was Google, which used an unregistered trademark for its first six years in operation. Only in 2006 did the company formally apply for a registered trademark for “Google.” It was registered in 2012. But trademark protection can ",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 157,
+            "metadata": {
+              "char_len": 500,
+              "chapter": "4",
+              "section": "4.7 Bars to Trademark | 4.8 Establishing Trademark Protection",
+              "page_id": "iip-p157"
+            },
+            "score": 0.8535
+          },
+          {
+            "id": "openstax-iip-p155-f05",
+            "text": "ic mind with the distinctive origin of products or services, then it may be eligible for a trademark, as is the case with “Sears” and “Macy’s.”",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 155,
+            "metadata": {
+              "chapter": "4",
+              "char_len": 143,
+              "section": "4.7 Bars to Trademark",
+              "page_id": "iip-p155"
+            },
+            "score": 0.8494
+          }
+        ],
+        "context": "[openstax-iip-p155-f03 | intro-intellectual-property.pdf | page 155]\nally not eligible for trademark registration. These are surnames, geographic marks, and ornamental, immoral, or offensive marks.xxx Surnames or family names such as “Smith” and “Johnson” cannot be trademarked except under certain conditions. The USPTO assesses five factors in determining whether a surname is eligible for a trademark: • Whether the surname is rare. • Whether the term is the surname of anyone connected with the applicant. • Whether the term has any recognized meaning other than as\n\n[openstax-iip-p157-f05 | intro-intellectual-property.pdf | page 157]\nation symbol ® • Listing in the United States Patent and Trademark Office’s online databases.xxxv Because registration costs money, many small businesses choose to rely upon the common law protections afforded trademarks, especially when just starting up. A case in point was Google, which used an unregistered trademark for its first six years in operation. Only in 2006 did the company formally apply for a registered trademark for “Google.” It was registered in 2012. But trademark protection can \n\n[openstax-iip-p155-f05 | intro-intellectual-property.pdf | page 155]\nic mind with the distinctive origin of products or services, then it may be eligible for a trademark, as is the case with “Sears” and “Macy’s.”",
+        "context_ids": [
+          "openstax-iip-p155-f03",
+          "openstax-iip-p157-f05",
+          "openstax-iip-p155-f05"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "error": null,
+    "n_searches": 1,
+    "elapsed_s": 3.13,
+    "usage": {
+      "calls": 2,
+      "prompt_tokens": 716,
+      "completion_tokens": 101
+    }
+  },
+  {
+    "query_id": "q20",
+    "split": "test",
+    "question": "How is the duration of an injunction determined?",
+    "answerable": true,
+    "status": "answered",
+    "answer": "The duration of an injunction is determined based on the time it would take for a competitor to reveal the trade secret through proper means. Courts may also consider the opinions and experiences of experts and competitors to establish an appropriate length of time. Additionally, permanent injunctions can be imposed, which may later be modified based on circumstances deemed important by the court [openstax-iip-p185-f01][openstax-iip-p185-f03].",
+    "citations": [
+      "openstax-iip-p185-f01",
+      "openstax-iip-p185-f03"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "duration of an injunction",
+        "filter": {
+          "chapter": "5"
+        },
+        "results": [
+          {
+            "id": "openstax-iip-p185-f02",
+            "text": ". Table 5.2 Injunctive Relief Where the information has not been publicly disclosed, the issue becomes more difficult. The duration of the injunction is often calculated according to the time that would be required for independent development of the information or knowledge that was misappropriated. These “head start” injunctions assume that the information could be properly obtained through reverse engineering or independent development.xxxii To determine what length of time is appropriate, cou",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 185,
+            "metadata": {
+              "page_id": "iip-p185",
+              "section": "5.6 Remedies Available for the Misappropriation of Trade Secrets",
+              "chapter": "5",
+              "char_len": 500
+            },
+            "score": 0.8959
+          },
+          {
+            "id": "openstax-iip-p185-f01",
+            "text": "e duration of an injunction is determined based on the amount of time it would take a competitor to reveal the trade secret by proper means. An injunction can be terminated when the trade secret ceases to exist. Permanent Injunctions To determine the appropriate length of time, courts may rely on the opinions/experience of experts and competitors. They may impose permanent injunctions or rely on other considerations seen as important by the court. Table 5.2 Injunctive Relief Where the informatio",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 185,
+            "metadata": {
+              "char_len": 500,
+              "section": "5.6 Remedies Available for the Misappropriation of Trade Secrets",
+              "page_id": "iip-p185",
+              "chapter": "5"
+            },
+            "score": 0.8928
+          },
+          {
+            "id": "openstax-iip-p185-f03",
+            "text": " determine what length of time is appropriate, courts may rely on the opinions of experts and the experience of other competitors.xxxiii However, a court may also opt to impose a permanent injunction that can later be modified, or in some circumstance rely on other considerations deemed important by the court.xxxiv Courts also exhibit broad flexibility in the nature and duration of relief in cases dealing with former employees. When an injunction is issued in these cases, it usually will not be ",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 185,
+            "metadata": {
+              "char_len": 500,
+              "page_id": "iip-p185",
+              "section": "5.6 Remedies Available for the Misappropriation of Trade Secrets",
+              "chapter": "5"
+            },
+            "score": 0.884
+          }
+        ],
+        "context": "[openstax-iip-p185-f02 | intro-intellectual-property.pdf | page 185]\n. Table 5.2 Injunctive Relief Where the information has not been publicly disclosed, the issue becomes more difficult. The duration of the injunction is often calculated according to the time that would be required for independent development of the information or knowledge that was misappropriated. These “head start” injunctions assume that the information could be properly obtained through reverse engineering or independent development.xxxii To determine what length of time is appropriate, cou\n\n[openstax-iip-p185-f01 | intro-intellectual-property.pdf | page 185]\ne duration of an injunction is determined based on the amount of time it would take a competitor to reveal the trade secret by proper means. An injunction can be terminated when the trade secret ceases to exist. Permanent Injunctions To determine the appropriate length of time, courts may rely on the opinions/experience of experts and competitors. They may impose permanent injunctions or rely on other considerations seen as important by the court. Table 5.2 Injunctive Relief Where the informatio\n\n[openstax-iip-p185-f03 | intro-intellectual-property.pdf | page 185]\n determine what length of time is appropriate, courts may rely on the opinions of experts and the experience of other competitors.xxxiii However, a court may also opt to impose a permanent injunction that can later be modified, or in some circumstance rely on other considerations deemed important by the court.xxxiv Courts also exhibit broad flexibility in the nature and duration of relief in cases dealing with former employees. When an injunction is issued in these cases, it usually will not be ",
+        "context_ids": [
+          "openstax-iip-p185-f02",
+          "openstax-iip-p185-f01",
+          "openstax-iip-p185-f03"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "error": null,
+    "n_searches": 1,
+    "elapsed_s": 3.59,
+    "usage": {
+      "calls": 2,
+      "prompt_tokens": 765,
+      "completion_tokens": 106
+    }
+  },
+  {
+    "query_id": "u03",
+    "split": "test",
+    "question": "How long does copyright protection last for a work under Vietnamese law?",
+    "answerable": false,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "copyright protection duration Vietnam",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-iip-p116-f04",
+            "text": "a musical artist writes a song that is published and performed under their name. The copyright will last 70 years beyond their death, and could conceivably be quite valuable to their heirs. On the other hand, imagine that an anonymous Korean War soldier’s diary, dated “December 1951” is discovered in an antique shop in the year 2013 and published that same year. Ordinarily, the copyright for an anonymous work would last for 95 years from the date of first publication, expiring in the year 2108. ",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 116,
+            "metadata": {
+              "char_len": 500,
+              "page_id": "iip-p116",
+              "section": "3.5 Rights and Term",
+              "chapter": "3"
+            },
+            "score": 0.847
+          },
+          {
+            "id": "openstax-iip-p117-f01",
+            "text": "other contributors. The copyright for this particular white paper will last for 95 years from the year of first publication, or for 120 years from the year of its creation, whichever expires first. First-Sale Doctrine It is important to note, however, that an author’s distribution rights (No. 3 above) are strictly limited by what is known as the first-sale doctrine, which terminates those distribution rights once he sells or distributes the work to someone else. For example, once the author of a",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 117,
+            "metadata": {
+              "chapter": "3",
+              "char_len": 500,
+              "page_id": "iip-p117",
+              "section": "3.5 Rights and Term"
+            },
+            "score": 0.8331
+          },
+          {
+            "id": "openstax-iip-p116-f03",
+            "text": "ies. For an individual, the term of a copyright is the life of the author plus 70 years after the author is deceased. For a work with two or more authors, the term expires 70 years after the last author’s death. Finally, for works that are “made for hire,” or anonymous or pseudonymous works, the copyright term lasts 95 years from the first publication or 120 years from the year of the work’s creation, whichever comes first.xv As examples, assume a musical artist writes a song that is published a",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 116,
+            "metadata": {
+              "chapter": "3",
+              "char_len": 500,
+              "page_id": "iip-p116",
+              "section": "3.5 Rights and Term"
+            },
+            "score": 0.8306
+          }
+        ],
+        "context": "[openstax-iip-p116-f04 | intro-intellectual-property.pdf | page 116]\na musical artist writes a song that is published and performed under their name. The copyright will last 70 years beyond their death, and could conceivably be quite valuable to their heirs. On the other hand, imagine that an anonymous Korean War soldier’s diary, dated “December 1951” is discovered in an antique shop in the year 2013 and published that same year. Ordinarily, the copyright for an anonymous work would last for 95 years from the date of first publication, expiring in the year 2108. \n\n[openstax-iip-p117-f01 | intro-intellectual-property.pdf | page 117]\nother contributors. The copyright for this particular white paper will last for 95 years from the year of first publication, or for 120 years from the year of its creation, whichever expires first. First-Sale Doctrine It is important to note, however, that an author’s distribution rights (No. 3 above) are strictly limited by what is known as the first-sale doctrine, which terminates those distribution rights once he sells or distributes the work to someone else. For example, once the author of a\n\n[openstax-iip-p116-f03 | intro-intellectual-property.pdf | page 116]\nies. For an individual, the term of a copyright is the life of the author plus 70 years after the author is deceased. For a work with two or more authors, the term expires 70 years after the last author’s death. Finally, for works that are “made for hire,” or anonymous or pseudonymous works, the copyright term lasts 95 years from the first publication or 120 years from the year of the work’s creation, whichever comes first.xv As examples, assume a musical artist writes a song that is published a",
+        "context_ids": [
+          "openstax-iip-p116-f04",
+          "openstax-iip-p117-f01",
+          "openstax-iip-p116-f03"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "copyright protection duration Vietnam",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-iip-p116-f04",
+            "text": "a musical artist writes a song that is published and performed under their name. The copyright will last 70 years beyond their death, and could conceivably be quite valuable to their heirs. On the other hand, imagine that an anonymous Korean War soldier’s diary, dated “December 1951” is discovered in an antique shop in the year 2013 and published that same year. Ordinarily, the copyright for an anonymous work would last for 95 years from the date of first publication, expiring in the year 2108. ",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 116,
+            "metadata": {
+              "chapter": "3",
+              "char_len": 500,
+              "section": "3.5 Rights and Term",
+              "page_id": "iip-p116"
+            },
+            "score": 0.847
+          },
+          {
+            "id": "openstax-iip-p117-f01",
+            "text": "other contributors. The copyright for this particular white paper will last for 95 years from the year of first publication, or for 120 years from the year of its creation, whichever expires first. First-Sale Doctrine It is important to note, however, that an author’s distribution rights (No. 3 above) are strictly limited by what is known as the first-sale doctrine, which terminates those distribution rights once he sells or distributes the work to someone else. For example, once the author of a",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 117,
+            "metadata": {
+              "section": "3.5 Rights and Term",
+              "char_len": 500,
+              "chapter": "3",
+              "page_id": "iip-p117"
+            },
+            "score": 0.8331
+          },
+          {
+            "id": "openstax-iip-p116-f03",
+            "text": "ies. For an individual, the term of a copyright is the life of the author plus 70 years after the author is deceased. For a work with two or more authors, the term expires 70 years after the last author’s death. Finally, for works that are “made for hire,” or anonymous or pseudonymous works, the copyright term lasts 95 years from the first publication or 120 years from the year of the work’s creation, whichever comes first.xv As examples, assume a musical artist writes a song that is published a",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 116,
+            "metadata": {
+              "char_len": 500,
+              "page_id": "iip-p116",
+              "chapter": "3",
+              "section": "3.5 Rights and Term"
+            },
+            "score": 0.8306
+          }
+        ],
+        "context": "[openstax-iip-p116-f04 | intro-intellectual-property.pdf | page 116]\na musical artist writes a song that is published and performed under their name. The copyright will last 70 years beyond their death, and could conceivably be quite valuable to their heirs. On the other hand, imagine that an anonymous Korean War soldier’s diary, dated “December 1951” is discovered in an antique shop in the year 2013 and published that same year. Ordinarily, the copyright for an anonymous work would last for 95 years from the date of first publication, expiring in the year 2108. \n\n[openstax-iip-p117-f01 | intro-intellectual-property.pdf | page 117]\nother contributors. The copyright for this particular white paper will last for 95 years from the year of first publication, or for 120 years from the year of its creation, whichever expires first. First-Sale Doctrine It is important to note, however, that an author’s distribution rights (No. 3 above) are strictly limited by what is known as the first-sale doctrine, which terminates those distribution rights once he sells or distributes the work to someone else. For example, once the author of a\n\n[openstax-iip-p116-f03 | intro-intellectual-property.pdf | page 116]\nies. For an individual, the term of a copyright is the life of the author plus 70 years after the author is deceased. For a work with two or more authors, the term expires 70 years after the last author’s death. Finally, for works that are “made for hire,” or anonymous or pseudonymous works, the copyright term lasts 95 years from the first publication or 120 years from the year of the work’s creation, whichever comes first.xv As examples, assume a musical artist writes a song that is published a",
+        "context_ids": [
+          "openstax-iip-p116-f04",
+          "openstax-iip-p117-f01",
+          "openstax-iip-p116-f03"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "copyright protection duration Vietnam",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-iip-p116-f04",
+            "text": "a musical artist writes a song that is published and performed under their name. The copyright will last 70 years beyond their death, and could conceivably be quite valuable to their heirs. On the other hand, imagine that an anonymous Korean War soldier’s diary, dated “December 1951” is discovered in an antique shop in the year 2013 and published that same year. Ordinarily, the copyright for an anonymous work would last for 95 years from the date of first publication, expiring in the year 2108. ",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 116,
+            "metadata": {
+              "section": "3.5 Rights and Term",
+              "char_len": 500,
+              "page_id": "iip-p116",
+              "chapter": "3"
+            },
+            "score": 0.847
+          },
+          {
+            "id": "openstax-iip-p117-f01",
+            "text": "other contributors. The copyright for this particular white paper will last for 95 years from the year of first publication, or for 120 years from the year of its creation, whichever expires first. First-Sale Doctrine It is important to note, however, that an author’s distribution rights (No. 3 above) are strictly limited by what is known as the first-sale doctrine, which terminates those distribution rights once he sells or distributes the work to someone else. For example, once the author of a",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 117,
+            "metadata": {
+              "char_len": 500,
+              "page_id": "iip-p117",
+              "section": "3.5 Rights and Term",
+              "chapter": "3"
+            },
+            "score": 0.8331
+          },
+          {
+            "id": "openstax-iip-p116-f03",
+            "text": "ies. For an individual, the term of a copyright is the life of the author plus 70 years after the author is deceased. For a work with two or more authors, the term expires 70 years after the last author’s death. Finally, for works that are “made for hire,” or anonymous or pseudonymous works, the copyright term lasts 95 years from the first publication or 120 years from the year of the work’s creation, whichever comes first.xv As examples, assume a musical artist writes a song that is published a",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 116,
+            "metadata": {
+              "char_len": 500,
+              "page_id": "iip-p116",
+              "chapter": "3",
+              "section": "3.5 Rights and Term"
+            },
+            "score": 0.8306
+          }
+        ],
+        "context": "[openstax-iip-p116-f04 | intro-intellectual-property.pdf | page 116]\na musical artist writes a song that is published and performed under their name. The copyright will last 70 years beyond their death, and could conceivably be quite valuable to their heirs. On the other hand, imagine that an anonymous Korean War soldier’s diary, dated “December 1951” is discovered in an antique shop in the year 2013 and published that same year. Ordinarily, the copyright for an anonymous work would last for 95 years from the date of first publication, expiring in the year 2108. \n\n[openstax-iip-p117-f01 | intro-intellectual-property.pdf | page 117]\nother contributors. The copyright for this particular white paper will last for 95 years from the year of first publication, or for 120 years from the year of its creation, whichever expires first. First-Sale Doctrine It is important to note, however, that an author’s distribution rights (No. 3 above) are strictly limited by what is known as the first-sale doctrine, which terminates those distribution rights once he sells or distributes the work to someone else. For example, once the author of a\n\n[openstax-iip-p116-f03 | intro-intellectual-property.pdf | page 116]\nies. For an individual, the term of a copyright is the life of the author plus 70 years after the author is deceased. For a work with two or more authors, the term expires 70 years after the last author’s death. Finally, for works that are “made for hire,” or anonymous or pseudonymous works, the copyright term lasts 95 years from the first publication or 120 years from the year of the work’s creation, whichever comes first.xv As examples, assume a musical artist writes a song that is published a",
+        "context_ids": [
+          "openstax-iip-p116-f04",
+          "openstax-iip-p117-f01",
+          "openstax-iip-p116-f03"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "error": null,
+    "n_searches": 3,
+    "elapsed_s": 4.82,
+    "usage": {
+      "calls": 4,
+      "prompt_tokens": 2057,
+      "completion_tokens": 64
+    }
+  },
+  {
+    "query_id": "u04",
+    "split": "test",
+    "question": "How many years does a registered U.S. trademark stay valid before it must be renewed?",
+    "answerable": false,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "how many years does a registered U.S. trademark stay valid before it must be renewed",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-iip-p157-f05",
+            "text": "ation symbol ® • Listing in the United States Patent and Trademark Office’s online databases.xxxv Because registration costs money, many small businesses choose to rely upon the common law protections afforded trademarks, especially when just starting up. A case in point was Google, which used an unregistered trademark for its first six years in operation. Only in 2006 did the company formally apply for a registered trademark for “Google.” It was registered in 2012. But trademark protection can ",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 157,
+            "metadata": {
+              "chapter": "4",
+              "char_len": 500,
+              "section": "4.7 Bars to Trademark | 4.8 Establishing Trademark Protection",
+              "page_id": "iip-p157"
+            },
+            "score": 0.8809
+          },
+          {
+            "id": "openstax-iip-p157-f03",
+            "text": "the mark, the right to bring civil action against infringers, and protection against false advertising. Unregistered trademarks are usually identified by the “TM” symbol displayed on the product, package, or advertising used to promote them. Trademarks formally registered with the USPTO, however, receive additional benefits: • A legal presumption of ownership of the mark and exclusive right to use the mark nationwide on or in connection with the goods/services listed in the registration. • Publi",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 157,
+            "metadata": {
+              "chapter": "4",
+              "section": "4.7 Bars to Trademark | 4.8 Establishing Trademark Protection",
+              "page_id": "iip-p157",
+              "char_len": 500
+            },
+            "score": 0.8686
+          },
+          {
+            "id": "openstax-iip-p154-f03",
+            "text": "k. • Dissect criteria for trademark registration. The Prior Use Bar No one can register a trademark if it has been used by other parties prior to its use by the applicant. Indeed, if the applicant uses such a mark, he or she may be liable for trademark infringement.xxviii The only exception to the prior use bar is when the mark has been used in an entirely different market or field of business, as in the trademark “Progressive” granted to two companies, one a backpack manufacturer and the other ",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 154,
+            "metadata": {
+              "section": "4.6 The Spectrum of Distinctiveness | 4.7 Bars to Trademark",
+              "page_id": "iip-p154",
+              "char_len": 500,
+              "chapter": "4"
+            },
+            "score": 0.8642
+          }
+        ],
+        "context": "[openstax-iip-p157-f05 | intro-intellectual-property.pdf | page 157]\nation symbol ® • Listing in the United States Patent and Trademark Office’s online databases.xxxv Because registration costs money, many small businesses choose to rely upon the common law protections afforded trademarks, especially when just starting up. A case in point was Google, which used an unregistered trademark for its first six years in operation. Only in 2006 did the company formally apply for a registered trademark for “Google.” It was registered in 2012. But trademark protection can \n\n[openstax-iip-p157-f03 | intro-intellectual-property.pdf | page 157]\nthe mark, the right to bring civil action against infringers, and protection against false advertising. Unregistered trademarks are usually identified by the “TM” symbol displayed on the product, package, or advertising used to promote them. Trademarks formally registered with the USPTO, however, receive additional benefits: • A legal presumption of ownership of the mark and exclusive right to use the mark nationwide on or in connection with the goods/services listed in the registration. • Publi\n\n[openstax-iip-p154-f03 | intro-intellectual-property.pdf | page 154]\nk. • Dissect criteria for trademark registration. The Prior Use Bar No one can register a trademark if it has been used by other parties prior to its use by the applicant. Indeed, if the applicant uses such a mark, he or she may be liable for trademark infringement.xxviii The only exception to the prior use bar is when the mark has been used in an entirely different market or field of business, as in the trademark “Progressive” granted to two companies, one a backpack manufacturer and the other ",
+        "context_ids": [
+          "openstax-iip-p157-f05",
+          "openstax-iip-p157-f03",
+          "openstax-iip-p154-f03"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "how many years does a registered U.S. trademark stay valid before it must be renewed",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-iip-p157-f05",
+            "text": "ation symbol ® • Listing in the United States Patent and Trademark Office’s online databases.xxxv Because registration costs money, many small businesses choose to rely upon the common law protections afforded trademarks, especially when just starting up. A case in point was Google, which used an unregistered trademark for its first six years in operation. Only in 2006 did the company formally apply for a registered trademark for “Google.” It was registered in 2012. But trademark protection can ",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 157,
+            "metadata": {
+              "section": "4.7 Bars to Trademark | 4.8 Establishing Trademark Protection",
+              "chapter": "4",
+              "page_id": "iip-p157",
+              "char_len": 500
+            },
+            "score": 0.8809
+          },
+          {
+            "id": "openstax-iip-p157-f03",
+            "text": "the mark, the right to bring civil action against infringers, and protection against false advertising. Unregistered trademarks are usually identified by the “TM” symbol displayed on the product, package, or advertising used to promote them. Trademarks formally registered with the USPTO, however, receive additional benefits: • A legal presumption of ownership of the mark and exclusive right to use the mark nationwide on or in connection with the goods/services listed in the registration. • Publi",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 157,
+            "metadata": {
+              "section": "4.7 Bars to Trademark | 4.8 Establishing Trademark Protection",
+              "char_len": 500,
+              "chapter": "4",
+              "page_id": "iip-p157"
+            },
+            "score": 0.8686
+          },
+          {
+            "id": "openstax-iip-p154-f03",
+            "text": "k. • Dissect criteria for trademark registration. The Prior Use Bar No one can register a trademark if it has been used by other parties prior to its use by the applicant. Indeed, if the applicant uses such a mark, he or she may be liable for trademark infringement.xxviii The only exception to the prior use bar is when the mark has been used in an entirely different market or field of business, as in the trademark “Progressive” granted to two companies, one a backpack manufacturer and the other ",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 154,
+            "metadata": {
+              "char_len": 500,
+              "section": "4.6 The Spectrum of Distinctiveness | 4.7 Bars to Trademark",
+              "chapter": "4",
+              "page_id": "iip-p154"
+            },
+            "score": 0.8642
+          }
+        ],
+        "context": "[openstax-iip-p157-f05 | intro-intellectual-property.pdf | page 157]\nation symbol ® • Listing in the United States Patent and Trademark Office’s online databases.xxxv Because registration costs money, many small businesses choose to rely upon the common law protections afforded trademarks, especially when just starting up. A case in point was Google, which used an unregistered trademark for its first six years in operation. Only in 2006 did the company formally apply for a registered trademark for “Google.” It was registered in 2012. But trademark protection can \n\n[openstax-iip-p157-f03 | intro-intellectual-property.pdf | page 157]\nthe mark, the right to bring civil action against infringers, and protection against false advertising. Unregistered trademarks are usually identified by the “TM” symbol displayed on the product, package, or advertising used to promote them. Trademarks formally registered with the USPTO, however, receive additional benefits: • A legal presumption of ownership of the mark and exclusive right to use the mark nationwide on or in connection with the goods/services listed in the registration. • Publi\n\n[openstax-iip-p154-f03 | intro-intellectual-property.pdf | page 154]\nk. • Dissect criteria for trademark registration. The Prior Use Bar No one can register a trademark if it has been used by other parties prior to its use by the applicant. Indeed, if the applicant uses such a mark, he or she may be liable for trademark infringement.xxviii The only exception to the prior use bar is when the mark has been used in an entirely different market or field of business, as in the trademark “Progressive” granted to two companies, one a backpack manufacturer and the other ",
+        "context_ids": [
+          "openstax-iip-p157-f05",
+          "openstax-iip-p157-f03",
+          "openstax-iip-p154-f03"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "how many years does a registered U.S. trademark stay valid before it must be renewed",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-iip-p157-f05",
+            "text": "ation symbol ® • Listing in the United States Patent and Trademark Office’s online databases.xxxv Because registration costs money, many small businesses choose to rely upon the common law protections afforded trademarks, especially when just starting up. A case in point was Google, which used an unregistered trademark for its first six years in operation. Only in 2006 did the company formally apply for a registered trademark for “Google.” It was registered in 2012. But trademark protection can ",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 157,
+            "metadata": {
+              "section": "4.7 Bars to Trademark | 4.8 Establishing Trademark Protection",
+              "page_id": "iip-p157",
+              "chapter": "4",
+              "char_len": 500
+            },
+            "score": 0.8809
+          },
+          {
+            "id": "openstax-iip-p157-f03",
+            "text": "the mark, the right to bring civil action against infringers, and protection against false advertising. Unregistered trademarks are usually identified by the “TM” symbol displayed on the product, package, or advertising used to promote them. Trademarks formally registered with the USPTO, however, receive additional benefits: • A legal presumption of ownership of the mark and exclusive right to use the mark nationwide on or in connection with the goods/services listed in the registration. • Publi",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 157,
+            "metadata": {
+              "page_id": "iip-p157",
+              "section": "4.7 Bars to Trademark | 4.8 Establishing Trademark Protection",
+              "char_len": 500,
+              "chapter": "4"
+            },
+            "score": 0.8686
+          },
+          {
+            "id": "openstax-iip-p154-f03",
+            "text": "k. • Dissect criteria for trademark registration. The Prior Use Bar No one can register a trademark if it has been used by other parties prior to its use by the applicant. Indeed, if the applicant uses such a mark, he or she may be liable for trademark infringement.xxviii The only exception to the prior use bar is when the mark has been used in an entirely different market or field of business, as in the trademark “Progressive” granted to two companies, one a backpack manufacturer and the other ",
+            "source_id": "openstax-iip",
+            "source": "intro-intellectual-property.pdf",
+            "page": 154,
+            "metadata": {
+              "chapter": "4",
+              "char_len": 500,
+              "page_id": "iip-p154",
+              "section": "4.6 The Spectrum of Distinctiveness | 4.7 Bars to Trademark"
+            },
+            "score": 0.8642
+          }
+        ],
+        "context": "[openstax-iip-p157-f05 | intro-intellectual-property.pdf | page 157]\nation symbol ® • Listing in the United States Patent and Trademark Office’s online databases.xxxv Because registration costs money, many small businesses choose to rely upon the common law protections afforded trademarks, especially when just starting up. A case in point was Google, which used an unregistered trademark for its first six years in operation. Only in 2006 did the company formally apply for a registered trademark for “Google.” It was registered in 2012. But trademark protection can \n\n[openstax-iip-p157-f03 | intro-intellectual-property.pdf | page 157]\nthe mark, the right to bring civil action against infringers, and protection against false advertising. Unregistered trademarks are usually identified by the “TM” symbol displayed on the product, package, or advertising used to promote them. Trademarks formally registered with the USPTO, however, receive additional benefits: • A legal presumption of ownership of the mark and exclusive right to use the mark nationwide on or in connection with the goods/services listed in the registration. • Publi\n\n[openstax-iip-p154-f03 | intro-intellectual-property.pdf | page 154]\nk. • Dissect criteria for trademark registration. The Prior Use Bar No one can register a trademark if it has been used by other parties prior to its use by the applicant. Indeed, if the applicant uses such a mark, he or she may be liable for trademark infringement.xxviii The only exception to the prior use bar is when the mark has been used in an entirely different market or field of business, as in the trademark “Progressive” granted to two companies, one a backpack manufacturer and the other ",
+        "context_ids": [
+          "openstax-iip-p157-f05",
+          "openstax-iip-p157-f03",
+          "openstax-iip-p154-f03"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "error": null,
+    "n_searches": 3,
+    "elapsed_s": 5.43,
+    "usage": {
+      "calls": 4,
+      "prompt_tokens": 2071,
+      "completion_tokens": 116
+    }
+  }
+]
