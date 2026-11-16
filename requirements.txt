@@ -1,0 +1,8 @@
+# Day 7 — Python 3.11 (conda env: day07)
+# Same versions as the Day 6 index (Chroma store + e5 embedding)
+chromadb==1.5.9
+sentence-transformers==6.3.0
+torch==2.15.0
+rank-bm25==0.2.2
+python-dotenv>=1,<2
+openai

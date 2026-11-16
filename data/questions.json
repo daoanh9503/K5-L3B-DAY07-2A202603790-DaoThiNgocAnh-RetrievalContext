@@ -1,0 +1,290 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "When is a copyright granted to an author in the United States?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 103,
+        "evidence": "It is automatically granted to an author at the moment of creation"
+      }
+    ],
+    "expected_answer": "Automatically, at the moment of creation, once the work is expressed in a tangible form.",
+    "filter": null
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Under what condition is registration required?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 103,
+        "evidence": "Registration is only required if a copyright holder wants to initiate a copyright infringement suit in federal court."
+      }
+    ],
+    "expected_answer": "For copyright, registration is only required if the holder wants to bring an infringement suit in federal court.",
+    "filter": {
+      "chapter": "3"
+    }
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "How many years does copyright protection continue after a single author dies?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 116,
+        "evidence": "the term of a copyright is the life of the author plus 70 years after the author is deceased"
+      }
+    ],
+    "expected_answer": "70 years after the author's death (life of the author plus 70 years).",
+    "filter": null
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "How long does copyright last for a work made for hire or an anonymous work?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 116,
+        "evidence": "the copyright term lasts 95 years from the first publication or 120 years from the year of the work"
+      }
+    ],
+    "expected_answer": "95 years from first publication or 120 years from creation, whichever comes first.",
+    "filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "After buying copies of a novel, can a bookstore make additional copies of it?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 117,
+        "evidence": "The bookstore owner cannot, however, make additional copies of the book because the first-sale doctrine does not limit a copyright owner"
+      }
+    ],
+    "expected_answer": "No. The first-sale doctrine ends distribution rights over sold copies but does not limit the reproduction right.",
+    "filter": null
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Why can't Einstein's famous mass-energy formula be protected by copyright?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 115,
+        "evidence": "Because it is an abstract concept or idea, Einstein"
+      }
+    ],
+    "expected_answer": "Because it is an abstract concept or idea derived from natural laws and must stay in the public domain.",
+    "filter": null
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Can an ordinary phone book be copyrighted?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 115,
+        "evidence": "Also noncopyrightable are names, addresses, and other known facts that are not creatively compiled."
+      }
+    ],
+    "expected_answer": "No; names, addresses and known facts that are not creatively compiled are not copyrightable.",
+    "filter": null
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "How many copies of a copyrighted work may a public library or archive keep for preservation, and on what condition?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 122,
+        "evidence": "up to three copies of a copyrighted work, but a copyright notice must be included on each copy"
+      }
+    ],
+    "expected_answer": "Up to three copies, each including a copyright notice.",
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "What are the two primary types of marks registered with the USPTO?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 147,
+        "evidence": "The two primary types of marks are trademarks and service marks."
+      }
+    ],
+    "expected_answer": "Trademarks and service marks.",
+    "filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Which category of mark is considered the strongest, like Xerox or Kodak?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 153,
+        "evidence": "Fanciful marks are considered the strongest type of mark and are prima facie registrable with the USPTO."
+      }
+    ],
+    "expected_answer": "Fanciful marks.",
+    "filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "What is the minimum level of distinctiveness for a mark to be registrable without secondary meaning?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 153,
+        "evidence": "A suggestive mark is the minimum required for a mark to be unconditionally registrable absent a secondary meaning."
+      }
+    ],
+    "expected_answer": "A suggestive mark.",
+    "filter": null
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Under what condition can a sound be registered as a trademark?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 151,
+        "evidence": "Sounds can also be trademarked provided they indicate the source of the product or service with which they are associated"
+      }
+    ],
+    "expected_answer": "When it indicates the source of the associated product or service.",
+    "filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Is federal registration required to get protection?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 157,
+        "evidence": "trademarks do not necessarily have to be registered with the federal government, but doing so has benefits"
+      }
+    ],
+    "expected_answer": "For trademarks, no; registration is not required but brings additional benefits.",
+    "filter": {
+      "chapter": "4"
+    }
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "What two criteria must information meet to qualify as a trade secret?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 175,
+        "evidence": "First, the information must attain its value from the fact that it is not generally known. Second, the owner of that information must take reasonable efforts to maintain its secrecy."
+      }
+    ],
+    "expected_answer": "Its value comes from not being generally known, and the owner takes reasonable efforts to keep it secret.",
+    "filter": null
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "How are damages measured?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 186,
+        "evidence": "the actual loss caused by the misappropriation as well as any resulting unjust enrichment of the misappropriator"
+      }
+    ],
+    "expected_answer": "For trade secrets under the UTSA: by actual loss plus any unjust enrichment of the misappropriator (or a reasonable royalty if these cannot be calculated).",
+    "filter": {
+      "chapter": "5"
+    }
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "How does trade secret law differ from patent law regarding public disclosure?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 172,
+        "evidence": "that the intellectual property to be protected not be publicly disclosed"
+      }
+    ],
+    "expected_answer": "Patents require public disclosure; trade secret law requires the information not be publicly disclosed.",
+    "filter": null
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "What counts as improper means of acquiring a trade secret under the UTSA?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 181,
+        "evidence": "includes theft, bribery, misrepresentation, breach or inducement of a breach of a duty to maintain secrecy, or espionage through electronic or other means"
+      }
+    ],
+    "expected_answer": "Theft, bribery, misrepresentation, breach or inducement of breach of a duty of secrecy, or espionage.",
+    "filter": null
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Is there a cap on punitive damages for trade secret misappropriation?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 186,
+        "evidence": "A punitive or exemplary award may not exceed twice the amount of the damage award."
+      }
+    ],
+    "expected_answer": "Generally no more than twice the damage award, though some states allow more.",
+    "filter": null
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Can a family name be registered as a trademark?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 155,
+        "evidence": "cannot be trademarked except under certain conditions. The USPTO assesses five factors in determining whether a surname is eligible for a trademark"
+      }
+    ],
+    "expected_answer": "Generally not, except under certain conditions; the USPTO assesses five factors.",
+    "filter": null
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "How is the duration of an injunction determined?",
+    "gold": [
+      {
+        "source_id": "openstax-iip",
+        "page": 185,
+        "evidence": "duration of an injunction is determined based on the amount of time it would take a competitor to reveal the trade secret by proper means"
+      }
+    ],
+    "expected_answer": "By the time it would take a competitor to reveal the trade secret by proper means.",
+    "filter": {
+      "chapter": "5"
+    }
+  }
+]
