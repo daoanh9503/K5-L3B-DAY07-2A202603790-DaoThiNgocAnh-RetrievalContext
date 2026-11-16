@@ -1,3 +1,20 @@
+# Bài nộp Day 7 — Đào Thị Ngọc Anh · MSSV 2A202603790 · Lớp K5-L3B
+
+| | |
+|---|---|
+| **Báo cáo** | [report/individual/2A202603790_DaoThiNgocAnh.md](report/individual/2A202603790_DaoThiNgocAnh.md) |
+| **Code** | [src/](src/README.md): retriever dense / BM25 / hybrid RRF / hybrid + rerank, controller `gpt-4o-mini`, runner agent, đánh giá retrieval |
+| **Benchmark** | [data/questions.json](data/questions.json) (gold), [data/agent_cases.json](data/agent_cases.json): 24 câu, dev 15+2, test 5+2 |
+| **Cấu hình đã chốt** | [configs/selected_config.json](configs/selected_config.json): dense `day6_A`, top-3, budget 1800 ký tự, tối đa 3 lượt search |
+| **Kết quả, trace, nhãn** | `starter/results/` (agent dev/test, retrieval dev/test) |
+| **Dữ liệu** | OpenStax *Introduction to Intellectual Property* (CC BY 4.0), 38 trang chương 3–5, index Chroma từ Day 6, embedding `intfloat/multilingual-e5-small` |
+
+**Kết quả test với cấu hình đã chốt:** grounded answer 2.00/2 (5/5), citation hợp lệ 7/7, từ chối đúng 2/2 câu thiếu bằng chứng, không từ chối nhầm câu nào. Baseline (budget 800) đạt grounded 1.40/2 và từ chối nhầm 1/5. Cách chạy lại có ở cuối báo cáo.
+
+---
+
+*Phần dưới là đề bài gốc của khóa học, giữ nguyên để tham chiếu.*
+
 # Day 7 — Agentic RAG
 
 **Bài cá nhân · Python 3.11+ · tiếp nối Day 6**
